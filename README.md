@@ -1,5 +1,7 @@
 # Obsidian Plugin Dev
 
+![Estudo](https://img.shields.io/badge/Estudo-1a1a1a?style=for-the-badge&logo=quicklook&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 Obisian Plugin Dev é um projeto experimental desenvolvido com o objetivo de aprender, testar e explorar a criação de plugins para o Obsidian.
 
 Este repositório serve como laboratório para:

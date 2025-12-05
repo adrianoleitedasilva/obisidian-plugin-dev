@@ -3,9 +3,9 @@
 	"name": "Obsidian Plugin Dev",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
+	"description": "Obisian Plugin Dev é um plugin experimental para Obsidian focado em estudos de desenvolvimento, testes de funcionalidades e exploração da API da plataforma.",
+	"author": "Adriano Leite da Silva",
+	"authorUrl": "https://www.adrianosilva.pro.br/",
 	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": false
 }
